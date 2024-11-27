@@ -17,7 +17,7 @@ A simple Python tool to calculate real-time typing speed in terms of characters 
 ### Option 1: Running the Executable (`.exe`)
 If you prefer not to install Python or dependencies, you can simply run the provided `.exe` file:
 
-1. Download the `.exe` file from the [latest release](https://github.com/Kaillr/py-search-engine/releases/latest).
+1. Download the `.exe` file from the [latest release](https://github.com/Kaillr/py-cps-test/releases/latest).
 2. Double-click to run it — no Python installation required
 
 ### Option 2: Running the Python Script (`.py`)
